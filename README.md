@@ -1,44 +1,62 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# PD_OJ_Problems
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 15<br>
+**Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+| Matrícula  | Aluno                                  |
+| ---------- | -------------------------------------- |
+| 22/1022604 | João Victor da Silva Batista de Farias |
+| 22/1031363 | Renan Vieira Guedes                    |
+
+## Sobre
+-  Maximum 1D Range Sum
+-  Maximum 2D Range Sum
+- Coin Change
+- Knapsack
+- LIS
+- TSP
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+-
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+## Instalação
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+**Linguagem**: C++<br>
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+### Como rodar o projeto
+
+1. Clone o Repositório
+
+```
+    https://github.com/projeto-de-algoritmos-2024/Grafos2_Neuron.git
+```
+
+2. Acessar o diretório do Projeto
+```
+    cd PD_OJ_Problems
+```
+
+4. Rodar o script a seguir
+```
+    ./init.sh
+```
+
+# Video de apresentação
+
+[Video de apresentação em 10/02/2024 das questões resolvidas](https://youtu.be/D34y4ugFGVI)
+
+Renan V. Guedes
+- 
+- 
+- 
+
+João V. Farias
+- 
+- 
+- 
+
 
 
 
