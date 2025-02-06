@@ -11,12 +11,12 @@
 | 22/1031363 | Renan Vieira Guedes                    |
 
 ## Sobre
--  Maximum 1D Range Sum
--  Maximum 2D Range Sum
 - Coin Change
 - Knapsack
 - LIS
 - TSP
+-  Maximum 1D Range Sum
+-  Maximum 2D Range Sum
 
 ## Screenshots
 -
@@ -30,7 +30,7 @@
 1. Clone o Repositório
 
 ```
-    https://github.com/projeto-de-algoritmos-2024/Grafos2_Neuron.git
+    git clone https://github.com/projeto-de-algoritmos-2024/PD_OJ_Problems
 ```
 
 2. Acessar o diretório do Projeto
@@ -45,19 +45,12 @@
 
 # Video de apresentação
 
-[Video de apresentação em 10/02/2024 das questões resolvidas](https://youtu.be/D34y4ugFGVI)
+[Video de apresentação em 08/02/2025 das questões resolvidas](https://youtu.be/D34y4ugFGVI)
 
 Renan V. Guedes
-- 
 - 
 - 
 
 João V. Farias
 - 
 - 
-- 
-
-
-
-
-
