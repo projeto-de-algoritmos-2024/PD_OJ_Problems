@@ -11,12 +11,13 @@
 | 22/1031363 | Renan Vieira Guedes                    |
 
 ## Sobre
-- Coin Change
+- Leetcode: Medium [Coin Change](https://leetcode.com/problems/coin-change/)
+- Leetcode: Hard [Weighted Inteval Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
 - Knapsack
 - LIS
 - TSP
--  Maximum 1D Range Sum
--  Maximum 2D Range Sum
+- Maximum 1D Range Sum
+- Maximum 2D Range Sum
 
 ## Screenshots
 -
@@ -48,9 +49,9 @@
 [Video de apresentação em 08/02/2025 das questões resolvidas](https://youtu.be/D34y4ugFGVI)
 
 Renan V. Guedes
-- 
+- Coin Change
 - 
 
 João V. Farias
-- 
+- Weighted Interval Schedule
 - 
