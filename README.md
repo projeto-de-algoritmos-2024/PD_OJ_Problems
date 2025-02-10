@@ -12,12 +12,8 @@
 
 ## Sobre
 - Leetcode: Medium [Coin Change](https://leetcode.com/problems/coin-change/)
-- Leetcode: Hard [Weighted Inteval Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
-- Knapsack
-- LIS
-- TSP
-- Maximum 1D Range Sum
-- Maximum 2D Range Sum
+- Leetcode: Hard [https://leetcode.com/problems/number-of-ways-to-earn-points/description/Weighted Inteval Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+- Knapsack Hard [Number of ways to earn points](https://leetcode.com/problems/number-of-ways-to-earn-points/description/)
 
 ## Screenshots
 -
