@@ -14,7 +14,7 @@ class Solution {
         for(int j = 0; j <= target; j++) {
           for(int solved = 0; solved <= count; ++solved) {
             if(j-solved*mark >= 0) {
-              dp[i][j] += dp[i-j][j-solved*mark];
+              dp[i][j] += dp[i-1][j-solved*mark];
               dp[i][j] %= kMod;
             }
           }
