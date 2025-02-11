@@ -12,11 +12,19 @@
 
 ## Sobre
 - Leetcode: Medium [Coin Change](https://leetcode.com/problems/coin-change/)
-- Leetcode: Hard [https://leetcode.com/problems/number-of-ways-to-earn-points/description/Weighted Inteval Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
-- Knapsack Hard [Number of ways to earn points](https://leetcode.com/problems/number-of-ways-to-earn-points/description/)
+- Leetcode: Hard [Weighted Inteval Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+- Leetcode: Knapsack Hard [Number of ways to earn points](https://leetcode.com/problems/number-of-ways-to-earn-points/description/)
 
 ## Screenshots
--
+- Coin Change:
+![Coin Change](coin_change.png)
+
+- Weighted Interval Scheduling;
+![Weighted Interval Scheduling](weighted_interval_scheduling.png)
+
+- Knapsack;
+![Knapsack](knapsack.png)
+
 
 ## Instalação
 
@@ -24,30 +32,17 @@
 
 ### Como rodar o projeto
 
-1. Clone o Repositório
-
-```
-    git clone https://github.com/projeto-de-algoritmos-2024/PD_OJ_Problems
-```
-
-2. Acessar o diretório do Projeto
-```
-    cd PD_OJ_Problems
-```
-
-4. Rodar o script a seguir
-```
-    ./init.sh
-```
+1. Acesse os links dos problemas acima.
+2. Copie o código de cada arquivo.
+3. E cole para a solução de cada problema. 
 
 # Video de apresentação
 
-[Video de apresentação em 08/02/2025 das questões resolvidas](https://youtu.be/D34y4ugFGVI)
+[Video de apresentação em 10/02/2025 das questões resolvidas](https://youtu.be/dy5gVyVjZLs)
 
 Renan V. Guedes
 - Coin Change
-- 
+- Knapsack
 
 João V. Farias
 - Weighted Interval Schedule
-- 
